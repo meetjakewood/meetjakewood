@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Jake Wood
-🎉 Co-creator of Meet Scratch with my partner Jordie.
+🎉 Co-founder of Meet Scratch with my partner Jordie.
 
 🚀 We're building a micro startup studio to create small companies that aim to make the world better while hopefully turning a profit.
 
