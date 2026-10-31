@@ -1,8 +1,5 @@
-# 👋 Hi, I'm Jake Wood
-🎉 Co-founder of Meet Scratch with my partner Jordie.
+# Hi, I'm Jake 👋
 
-🚀 We're building a micro startup studio to create small companies that aim to make the world better while hopefully turning a profit.
+Designer, builder and leader based in Brisbane, Australia. Currently at etrainu.
 
-💻 I’ve been in the software industry for a long time, working across Product, Design, and Operations.
-
-🛠 Now I’m diving into programming. Let's see how it goes!
+I've spent most of my career across product, design and operations. Lately I've been building personal software, small tools made just for me.
